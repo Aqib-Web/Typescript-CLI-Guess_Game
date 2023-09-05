@@ -1,14 +1,5 @@
-# Typescript-CLI-Guess_Game
-A fun and colorful console game using Typescript.
-
-## How to Play
-
-1. The game will generate a random secret number between 1 and 20.
-2. You have 5 lives to guess the number correctly.
-3. Enter your guess when prompted. Make sure it's a number between 1 and 20.
-4. If your guess is correct, you win! 🥳
-5. If your guess is too low or too high, you'll be given another chance.
-6. If you run out of lives, the game will end, and you'll be shown the secret number. 😢
+# Guess The Number CLI (TypeScript)
+A simple command-line game implemented in TypeScript. Try to guess the secret number between 1 and 20 with only 5 lives. Can you beat the odds and win?
 
 ## Features
 
