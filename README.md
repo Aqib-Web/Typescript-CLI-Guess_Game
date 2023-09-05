@@ -27,7 +27,7 @@ This project uses the following dependencies:
 
 ## Usage
 
-Run the calculator using the following command:
+Run the game using the following command: (or clone the repo)
 
 ```bash
 npx ts_guess-the-number
