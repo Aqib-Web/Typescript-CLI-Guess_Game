@@ -1,4 +1,4 @@
-// #!/usr/bin/env node
+#!/usr/bin/env node
 import inquirer from "inquirer";
 import { createSpinner } from "nanospinner";
 import chalk from "chalk";
