@@ -14,7 +14,7 @@ This project uses the following dependencies:
 - [inquirer](https://www.npmjs.com/package/inquirer) - For interactive command-line prompts.
 - [chalk](https://www.npmjs.com/package/chalk) - For adding color to the console output.
 - [chalk-animation](https://www.npmjs.com/package/chalk-animation) - For animating the welcome message.
-- [nanospinner](https://www.npmjs.com/package/nanospinner) - For displaying a spinner while calculating.
+- [nanospinner](https://www.npmjs.com/package/nanospinner) - For displaying a spinner.
 
 ## Usage
 
